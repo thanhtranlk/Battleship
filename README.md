@@ -20,14 +20,32 @@ This repository contains a console-based version of the classic Battleship game.
 
 2. **Compile and Run:**
 
-  a) Navigate to the repository's directory and compile the code:
+   a) Navigate to the repository's directory and compile the code:
 
-   ```bash
+      ```bash
          cd battleship
          g++ main.cpp -o battleship
- ```
- 
- b) Run the compiled executable:
+      ```
 
-```bash
-   ./battleship
+   b) Run the compiled executable:
+
+      ```bash
+         ./battleship
+      ```
+
+## Game Mechanics
+
+- Ships are placed randomly on a 10x10 game board.
+- Players take turns firing shots at each other's boards.
+- The game indicates hits and misses, and the first player to sink all opponent's ships wins.
+
+## Files
+
+`main.cpp`: The main driver of the game, initializing and managing gameplay.
+`model.h`: Defines the model class for managing the game board and interactions.
+`point.h`: Contains the point class to handle coordinates.
+`ship.h`: Defines the ship class for ship-related functionality.
+
+
+
+   
