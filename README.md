@@ -26,7 +26,6 @@ This repository contains a console-based version of the classic Battleship game.
    cd battleship
    g++ main.cpp -o battleship
  
-   Run the compiled executable:
+ Run the compiled executable:
 
-   ```
-   ./battleship
+   ```./battleship
