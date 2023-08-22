@@ -42,9 +42,13 @@ This repository contains a console-based version of the classic Battleship game.
 ## Files
 
 `main.cpp`: The main driver of the game, initializing and managing gameplay.  
+
 `model.h`: Defines the model class for managing the game board and interactions.  
+
 `point.h`: Contains the point class to handle coordinates.  
+
 `ship.h`: Defines the ship class for ship-related functionality.  
+
 
 
 
