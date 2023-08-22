@@ -20,12 +20,13 @@ This repository contains a console-based version of the classic Battleship game.
 
 2. **Compile and Run:**
 
-   Navigate to the repository's directory and compile the code:
+Navigate to the repository's directory and compile the code:
 
-   ```bash
-   cd battleship
-   g++ main.cpp -o battleship
+      ```bash
+      cd battleship
+      g++ main.cpp -o battleship
  
- Run the compiled executable:
+Run the compiled executable:
 
-   ```./battleship
+      ```
+   ./battleship
