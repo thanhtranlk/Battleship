@@ -52,6 +52,7 @@ This repository contains a console-based version of the classic Battleship game.
 ## Note
 
 **Gameplay:** Follow the on-screen instructions to attack your opponent's ships. The game continues until one player sinks all the opponent's ships.
+
 **Game Over:** The game ends when either you or the computer sinks all opponent's ships.
 
 This implementation is a simplified console-based version for educational purposes and may not cover all features of a commercial game.
