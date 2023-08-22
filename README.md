@@ -17,3 +17,14 @@ This repository contains a console-based version of the classic Battleship game.
 
    ```bash
    git clone https://github.com/your-username/battleship.git
+
+2. **Compile and Run:**
+
+   Navigate to the repository's directory and compile the code:
+
+   cd battleship
+   g++ main.cpp -o battleship
+
+   Run the compiled executable:
+
+   ./battleship
